@@ -15,6 +15,13 @@ docker run -d -p 8080:80 nginx-bootstrap
 
 echo ""
 echo "✅ Abrí la vista previa del puerto 8080 en Google Cloud Shell (icono de cuadrado con flecha)."
-echo "O accedé a la URL que aparece en la terminal luego de levantar el contenedor."
+echo ""
+
+echo "🔍 Verificá el contenedor corriendo con:"
+echo "docker ps --filter ancestor=nginx-bootstrap"
+
+echo "📋 Ver logs del contenedor con:"
+echo "docker logs $(docker ps -q --filter ancestor=nginx-bootstrap)"
+
 
 

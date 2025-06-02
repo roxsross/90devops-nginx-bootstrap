@@ -12,7 +12,7 @@ Este es el primer reto del programa **90 Días de DevOps con Roxs**.
 ### 🚀 Pasos rápidos
 
 1. Ingresá a Cloud Shell con este enlace:  
-👉 https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/roxsross/90devops-nginx-bootstrap
+👉 https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/roxsross/90devops-nginx-bootstrap&cloudshell_page=shell&tutorial=tutorial.md
 
 2. En la terminal, ejecutá:
 ```bash
